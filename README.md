@@ -1,6 +1,6 @@
 # 📁 SkillCraft Data Science Projects
 
-Welcome to my Data Analyst project series, completed as part of **SkillCraft Technology**. This repository includes multiple real-world datasets and tasks, focusing on data visualization, exploratory data analysis (EDA), machine learning, and pattern identification.
+Welcome to my Data Science project series, completed as part of **SkillCraft Technology**. This repository includes multiple real-world datasets and tasks, focusing on data visualization, exploratory data analysis (EDA), machine learning, and pattern identification.
 
 ---
 
