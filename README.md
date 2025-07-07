@@ -1,38 +1,74 @@
-# 📊 Population Distribution Visualization
+# 📁 SkillCraft Data Science Projects
 
-This project visualizes population distribution data through **bar charts** and **histograms** to explore insights about age and population trends.
-
----
-
-## 📌 Task Overview
-
-- **Bar Chart**: Displays the age-wise population distribution in India for 2022 (0–20, 21–64, 65+).
-- **Histogram**: Shows the global population spread for the year 2023 using real-world data.
+Welcome to my Data Analyst project series, completed as part of **SkillCraft Technology**. This repository includes multiple real-world datasets and tasks, focusing on data visualization, exploratory data analysis (EDA), machine learning, and pattern identification.
 
 ---
 
-## 📂 Dataset Used
+## 📊 Task 01: Population Visualization
 
-- UN World Population Prospects 2022  
-- World Bank Population Dataset (2023)  
-- CSV and XLS files for total population and metadata
+**Goal:** Create a bar chart or histogram to visualize the distribution of categorical or continuous variables.  
+**Dataset:** India's population distribution by age (2022).
 
----
-
-## 🛠 Tools & Technologies
-
-- Python 🐍  
-- Pandas  
-- Matplotlib / Seaborn  
-- Jupyter Notebook
+**Key Highlights:**
+- Plotted bar charts to represent population in age groups.
+- Used Python libraries: `pandas`, `matplotlib`, `seaborn`.
+- Understood demographic composition through visual storytelling.
 
 ---
 
-## 🚀 How to Run
+## 📈 Task 02: Titanic EDA
 
-1. Clone the repo or open the Jupyter notebook.
-2. Ensure the dataset files are in the same directory.
-3. Run the notebook cells step-by-step to generate the charts.
+**Goal:** Perform data cleaning and exploratory data analysis on the Titanic dataset from Kaggle.
+
+**Key Highlights:**
+- Handled missing data and outliers.
+- Explored survival patterns based on age, class, and gender.
+- Visualized relationships using heatmaps, box plots, and count plots.
 
 ---
 
+## 🌳 Task 03: Decision Tree on Bank Marketing Data
+
+**Goal:** Predict whether a customer will purchase a product using a decision tree classifier.
+
+**Dataset:** UCI Bank Marketing dataset.
+
+**Key Highlights:**
+- Preprocessed categorical and numerical variables.
+- Built and evaluated a Decision Tree model using `sklearn`.
+- Analyzed key factors influencing customer behavior.
+
+---
+
+## 🚧 Task 04: Accident Data Pattern Analysis
+
+**Goal:** Analyze traffic accident data to identify accident patterns.
+
+**Dataset:** Accident dataset (e.g., from Kaggle or official traffic data portals).
+
+**Key Highlights:**
+- Identified patterns by road condition, weather, and time of day.
+- Visualized accident hotspots and contributing factors.
+- Used `pandas`, `seaborn`, and `geopandas` for visual analysis.
+
+---
+
+## 📌 Tools & Technologies
+- Python 🐍
+- Jupyter Notebook 📓
+- Pandas, NumPy
+- Seaborn, Matplotlib
+- Scikit-learn (for ML tasks)
+
+---
+
+## 💡 Conclusion
+
+This repository demonstrates hands-on skills in data science, visualization, and modeling. Each task shows a different phase of the data science lifecycle — from cleaning and exploration to machine learning and insights discovery.
+
+---
+
+## 📬 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jayasree-s-36b24a258/)
+- 📊 [GitHub](https://github.com/Jayashree1743)
