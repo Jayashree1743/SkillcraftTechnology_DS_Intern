@@ -16,5 +16,4 @@ This project performs data cleaning and exploratory data analysis (EDA) on the T
 - Analyzed survival patterns  
 - Visualized trends with charts  
 
-## 📁 File  
-- `Task 02.ipynb` – Full analysis notebook  
+
